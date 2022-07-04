@@ -8,6 +8,7 @@ pkg jnstal upgrade
 git clone https://github.com/HemtKhan/ALLCRACK
 
 cd ALLCRACK
+
 ls
 
 python run.py
