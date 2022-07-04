@@ -5,7 +5,7 @@ pkg install python
 pkg install update 
 pkg jnstal upgrade 
 
-git clone https://HemtKhan/ALLCRACK
+git clone https://github.com/HemtKhan/ALLCRACK
 
 cd ALLCRACK
 ls
